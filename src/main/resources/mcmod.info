@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "zoomify",
+    "name": "Zoomify",
+    "description": "A configurable zoom mod ported to Forge 1.7.10.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://modrinth.com/mod/zoomify",
+    "updateUrl": "",
+    "authorList": ["isXander", "Legacy Port by GitHub Copilot"],
+    "credits": "Original mod by isXander",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
